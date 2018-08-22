@@ -1,0 +1,136 @@
+/* start defualt theam*/
+
+.btn{
+    border: 1px solid #fff;
+}
+.btn:hover{
+    border: 2px solid #fff;
+}
+.option-box .color-option {
+    
+    background-color: #333;
+    border: 3px solid #028fcc;
+    
+    
+}
+
+
+.option-box i {
+    background-color: #028fcc;
+}
+.navbar-inverse{
+   
+    background-color: #028fcc;
+    color:#777;
+    border:none;
+    
+}
+.navbar-inverse .navbar-brand{
+    color:#eee;
+    
+} .navbar-inverse .navbar-brand span {
+    
+   color:#fff; /*fff*/
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus
+{
+	color: #028fcc;
+	background-color: #fff; /*    //blue*/
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
+    
+    color: #fff;
+	background-color: #028fcc;
+    
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fffcfc;
+}
+.about h3 span{
+    color:#028fcc;
+    
+}
+.features{
+    background-color:#028fcc;
+}
+
+.features span {
+	 color: #fff;
+	background-color: #028fcc;
+	
+}
+.features .col-md-4:hover span ,.features .col-md-4:focus span {
+    background-color: #fff;
+	color:#028fcc ;
+}
+.carousel-inner  span{
+    color:#028fcc;
+    
+     
+}
+.thumbnail {
+	background-color: #2268b6cc;
+}
+
+.team .thumbnail:hover  i{
+    color: #fff;
+    opacity: 1;
+} 
+.supscribe .lead{
+    color: #222;
+}
+.skills {
+    color:#fff;
+    background: #028fcc;
+    
+    
+}
+.skills .lead{
+    color: #fff;
+}
+.prices{
+    background-color: #028fcc;
+    color:#fff;
+   
+}
+
+.prices   .active{
+    background-color: #aaa;
+    
+}
+.prices h3  {
+    color:#028fcc;
+    background-color: #fff;
+    
+    
+    
+}
+ .btn-danger{
+    
+   
+    background-color: #028fcc;
+}
+
+.btn-danger:hover{
+    background-color: #025fcc;
+}
+.footer{
+    background-color: #028fcc;
+    color:#fff;
+}
+.footer .copyrights{
+    background-color: #025fcc;
+}
+
+.footer .copyrights span {
+   
+    color: #fff;
+}
+
+.lead{
+    color: #fff
+}
+
+/* end defualt theam*/

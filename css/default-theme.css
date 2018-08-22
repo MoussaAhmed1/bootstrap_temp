@@ -1,0 +1,100 @@
+/* start defualt theam*/
+
+.option-box .color-option {
+    
+    background-color: #000;
+    border: 3px solid #de2c2c;
+    
+    
+}
+
+.option-box i {
+    background-color: #de2c2c;
+}
+
+.navbar-inverse{
+   
+    background-color: #000;
+    
+}
+.navbar-inverse .navbar-brand span {
+    
+   color:#de2c2c; /*fff*/
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus
+{
+	color: #fff;
+	background-color: #de2c2c; /*    //blue*/
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
+    
+    color: #fff;
+	background-color: #de2c2c;
+    
+}
+.about h3 span{
+    color:#de2c2c;
+    
+}
+.features{
+    background-color:#000;
+}
+
+.features span {
+	 color: #fff;
+	background-color: #de2c2c;
+	
+}
+.features .col-md-4:hover span ,.features .col-md-4:focus span {
+    background-color: #fff;
+	color:#de2c2c ;
+}
+.carousel-inner  span{
+    color:#de2c2c;
+    
+     
+}
+.prices{
+    background-color: #000;
+    color:#bbb;
+   
+}
+.skills {
+    color:#fff;
+    background: #000;
+    
+    
+}
+
+.prices   .active{
+    background-color: #de2c2c;
+    
+}
+.prices h3  {
+    color:#fff;
+    background-color: #c90000;
+    
+    
+    
+}
+.contact button{
+    
+   
+    background-color: #c90000;
+}
+.footer{
+    background-color: #000;
+    color:#ccc;
+}
+.footer .copyrights{
+    background-color: #090909;
+}
+
+.footer .copyrights span {
+   
+    color: #de2c2c;
+}
+
+/* end defualt theam*/
