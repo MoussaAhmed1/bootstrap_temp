@@ -45,13 +45,13 @@ $(document).ready(function() {
  
 });   
 
- /*$(window).on("load", function () {
+$(window).on("load", function () {
      
     $("#loading-overlay").fadeOut();
      
 });
 
-$(window).load(function()
+ /*$(window).load(function()
 {
     
    $(".loading-overlay").fadeOut(2000);
